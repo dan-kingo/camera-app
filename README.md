@@ -2,6 +2,22 @@
 
 A simple, elegant web-based camera application that captures photos and converts them to grayscale in real-time. Built with modern web technologies for a smooth user experience.
 
+
+## 🖼️ Project Screenshots
+
+### 🔐 Home Page
+![Login Screenshot](https://res.cloudinary.com/dpm44ocft/image/upload/v1751784487/p3_q16tcw.png)
+
+---
+
+### 🏠 Camera Access
+![Dashboard Screenshot](https://res.cloudinary.com/dpm44ocft/image/upload/v1751784485/p2_pfg4vu.png)
+
+---
+
+### 👤 Image to Grayscale
+![Profile Screenshot](https://res.cloudinary.com/dpm44ocft/image/upload/v1751784489/p1_cy0i7n.png)
+
 ## ✨ Features
 
 - **Real-time Camera Access**: Access your device's camera directly in the browser
@@ -10,21 +26,14 @@ A simple, elegant web-based camera application that captures photos and converts
 - **Download Functionality**: Save your grayscale images directly to your device
 - **Privacy-First**: All processing happens locally in your browser - no data is sent to servers
 
-## 🚀 Demo
-
-[Live Demo](https://your-demo-url.com) *(Replace with actual deployment URL)*
-
-## 📱 Screenshots
-
-*Add screenshots of your app in action here*
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Canvas API for image manipulation
 - **CSS3**: Modern styling with responsive design
 - **JavaScript**: Camera access and image processing
-- **MediaDevices API**: For camera access
-- **Canvas API**: For image manipulation and grayscale conversion
+- **Python**: For functionality
+- 
 
 ## 🏃‍♂️ Getting Started
 
@@ -37,7 +46,7 @@ A simple, elegant web-based camera application that captures photos and converts
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/camera-app.git
+   git clone https://github.com/dan-kingo/camera-app.git
    ```
 
 2. Navigate to the project directory:
@@ -50,11 +59,6 @@ A simple, elegant web-based camera application that captures photos and converts
    # Using Python
    python -m http.server 8000
    
-   # Using Node.js
-   npx serve .
-   
-   # Using PHP
-   php -S localhost:8000
    ```
 
 4. Visit `http://localhost:8000` in your browser
@@ -92,22 +96,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to the web standards community for the MediaDevices API
-- Inspired by the need for simple, privacy-focused image processing tools
-
-## 📞 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/camera-app](https://github.com/yourusername/camera-app)
-
----
-
-⭐ If you found this project helpful, please give it a star on GitHub!
